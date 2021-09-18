@@ -3,13 +3,19 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "c8f94b35cac32844e97a98d99184d7d3",
+  "assets/AssetManifest.json": "2eccb6398ed03f80b76704c14dd940ac",
 "assets/assets/fonts/roboto/Roboto-Bold.ttf": "9ece5b48963bbc96309220952cda38aa",
 "assets/assets/fonts/roboto/Roboto-Regular.ttf": "f36638c2135b71e5a623dca52b611173",
 "assets/assets/images/foods/serachpannelfood.png": "de2b5c570c961ea1792a09078d3f2170",
 "assets/assets/images/logos/appbarlogo.png": "f3e6475eec2325a64ee3e86d79bac714",
 "assets/assets/images/logos/appbarlogo.svg": "d8687fa0240991889f95c0a9a4ca381e",
+"assets/assets/images/others/myo.png": "e301e086691a198c02aba324291c8362",
+"assets/assets/images/others/offer1.png": "d4607a365afd3499a8929e2d9e76e8db",
+"assets/assets/images/others/outlets1.png": "0e4d59eb25804d341182e682e114f7b2",
+"assets/assets/images/others/popularItem1.png": "f7e890948c391117d4422a5eb7332cfe",
 "assets/assets/images/others/profilepicture.png": "4de526fb03d478913a3c83b02636f7d5",
+"assets/assets/images/others/sao.png": "bc54828346b1c06d98c1f8cd5f74b241",
+"assets/assets/images/others/vop.png": "20117633c89b320598dceb38c6abf44d",
 "assets/FontManifest.json": "ab91e1ca7cb0ebe0a2ed0e7af45888cd",
 "assets/fonts/MaterialIcons-Regular.otf": "4e6447691c9509f7acdbf8a931a85ca1",
 "assets/NOTICES": "5c40d71ecc235c82591fe50d7a38b97c",
@@ -19,11 +25,10 @@ const RESOURCES = {
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "9f847614cd55c1c24779ae5f48cd4fba",
-"/": "9f847614cd55c1c24779ae5f48cd4fba",
-"main.dart.js": "8bfb1cb5a9e5184f6ef49079b88e179c",
+"index.html": "104ab7f458654a2464a33e2ba7cb04ef",
+"/": "104ab7f458654a2464a33e2ba7cb04ef",
+"main.dart.js": "4ca48a589c8c8fec562591196a0af99a",
 "manifest.json": "7090cac6e4fd88062cc043fa660119db",
-"README.md": "aa98250ab7877c35966d91fb35576564",
 "version.json": "8e4d280f09188245d204ad72df3cd62e"
 };
 
